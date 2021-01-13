@@ -20,7 +20,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -211,5 +210,5 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-shield]: https://img.shields.io/github/license/Med-MG/GestionAbsence.svg?style=for-the-badge
 [license-url]: https://github.com/Med-MG/GestionAbsence/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/mohamed-mouiguina-0a3193124/
+[linkedin-url]: https://www.linkedin.com
 [product-screenshot]: images/screenshot.png
