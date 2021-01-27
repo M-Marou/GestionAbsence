@@ -118,6 +118,25 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <Resource Include="fonts\CERA PRO BLACK ITALIC.OTF" />
+    <Resource Include="fonts\CERA PRO BLACK.OTF" />
+    <Resource Include="fonts\CERA PRO BOLD.OTF" />
+    <Resource Include="fonts\CERA PRO LIGHT.OTF" />
+    <Resource Include="fonts\CERA PRO MEDIUM.OTF" />
+    <Resource Include="fonts\CERA PRO REGULAR ITALIC.OTF" />
+    <Resource Include="fonts\CERA PRO REGULAR.OTF" />
+    <Resource Include="fonts\CERA PRO THIN.OTF" />
+    <Resource Include="fonts\password.ttf" />
+    <Resource Include="fonts\POPPINS-BOLD.OTF" />
+    <Resource Include="fonts\POPPINS-EXTRABOLD.OTF" />
+    <Resource Include="fonts\POPPINS-LIGHT.OTF" />
+    <Resource Include="fonts\POPPINS-LIGHTITALIC.TTF" />
+    <Resource Include="fonts\POPPINS-MEDIUM.TTF" />
+    <Resource Include="fonts\POPPINS-MEDIUMITALIC.TTF" />
+    <Resource Include="fonts\POPPINS-REGULAR.TTF" />
+    <Resource Include="fonts\POPPINS-SEMIBOLD.TTF" />
+    <Resource Include="fonts\POPPINS-SEMIBOLDITALIC.TTF" />
+    <Resource Include="fonts\POPPINS-THIN.TTF" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -129,6 +148,14 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\langCloudAnime.png" />
+    <Resource Include="images\langCloudAnimeCp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\icon\padlock.png" />
+    <Resource Include="images\icon\user.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
